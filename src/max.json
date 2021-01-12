@@ -1,0 +1,1485 @@
+
+  {
+    "id": 89,
+    "date": "2020-09-30T14:05:22",
+    "date_gmt": "2020-09-30T14:05:22",
+    "guid": {
+      "rendered": "https://max.william-mcdowell.com/?post_type=work&#038;p=89"
+    },
+    "modified": "2020-10-04T09:27:54",
+    "modified_gmt": "2020-10-04T09:27:54",
+    "slug": "work-3-6",
+    "status": "publish",
+    "type": "work",
+    "link": "https://max.william-mcdowell.com/work/work-3-6/",
+    "title": { "rendered": "Hitler" },
+    "content": { "rendered": "\n<p>Hitler</p>\n", "protected": false },
+    "featured_media": 61,
+    "template": "",
+    "_links": {
+      "self": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work/89" }
+      ],
+      "collection": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work" }
+      ],
+      "about": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/work" }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/61"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media?parent=89"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    },
+    "_embedded": {
+      "wp:featuredmedia": [
+        {
+          "id": 61,
+          "date": "2020-09-30T14:01:52",
+          "slug": "928c2356-0191-43f7-ad5c-75ed360ba6ab",
+          "type": "attachment",
+          "link": "https://max.william-mcdowell.com/928c2356-0191-43f7-ad5c-75ed360ba6ab/",
+          "title": { "rendered": "928c2356-0191-43f7-ad5c-75ed360ba6ab" },
+          "author": 1,
+          "caption": { "rendered": "" },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 1000,
+            "height": 1376,
+            "file": "2020/09/928c2356-0191-43f7-ad5c-75ed360ba6ab.jpg",
+            "sizes": {
+              "medium": {
+                "file": "928c2356-0191-43f7-ad5c-75ed360ba6ab-218x300.jpg",
+                "width": 218,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/928c2356-0191-43f7-ad5c-75ed360ba6ab-218x300.jpg"
+              },
+              "large": {
+                "file": "928c2356-0191-43f7-ad5c-75ed360ba6ab-744x1024.jpg",
+                "width": 744,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/928c2356-0191-43f7-ad5c-75ed360ba6ab-744x1024.jpg"
+              },
+              "thumbnail": {
+                "file": "928c2356-0191-43f7-ad5c-75ed360ba6ab-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/928c2356-0191-43f7-ad5c-75ed360ba6ab-150x150.jpg"
+              },
+              "medium_large": {
+                "file": "928c2356-0191-43f7-ad5c-75ed360ba6ab-768x1057.jpg",
+                "width": 768,
+                "height": 1057,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/928c2356-0191-43f7-ad5c-75ed360ba6ab-768x1057.jpg"
+              },
+              "full": {
+                "file": "928c2356-0191-43f7-ad5c-75ed360ba6ab.jpg",
+                "width": 1000,
+                "height": 1376,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/928c2356-0191-43f7-ad5c-75ed360ba6ab.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/928c2356-0191-43f7-ad5c-75ed360ba6ab.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/61"
+              }
+            ],
+            "collection": [
+              { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media" }
+            ],
+            "about": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/users/1"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/comments?post=61"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "date": "2020-09-30T14:05:22",
+    "date_gmt": "2020-09-30T14:05:22",
+    "guid": {
+      "rendered": "https://max.william-mcdowell.com/?post_type=work&#038;p=88"
+    },
+    "modified": "2020-10-04T09:53:46",
+    "modified_gmt": "2020-10-04T09:53:46",
+    "slug": "wokeofk-4-6",
+    "status": "publish",
+    "type": "work",
+    "link": "https://max.william-mcdowell.com/work/wokeofk-4-6/",
+    "title": { "rendered": "wokeofk 4" },
+    "content": { "rendered": "\n<p>safsef</p>\n", "protected": false },
+    "featured_media": 59,
+    "template": "",
+    "_links": {
+      "self": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work/88" }
+      ],
+      "collection": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work" }
+      ],
+      "about": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/work" }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/59"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media?parent=88"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    },
+    "_embedded": {
+      "wp:featuredmedia": [
+        {
+          "id": 59,
+          "date": "2020-09-30T14:01:49",
+          "slug": "27807aca-d963-4dec-874b-4a7136009fe5",
+          "type": "attachment",
+          "link": "https://max.william-mcdowell.com/27807aca-d963-4dec-874b-4a7136009fe5/",
+          "title": { "rendered": "27807aca-d963-4dec-874b-4a7136009fe5" },
+          "author": 1,
+          "caption": { "rendered": "" },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 1000,
+            "height": 1360,
+            "file": "2020/09/27807aca-d963-4dec-874b-4a7136009fe5.jpg",
+            "sizes": {
+              "medium": {
+                "file": "27807aca-d963-4dec-874b-4a7136009fe5-221x300.jpg",
+                "width": 221,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/27807aca-d963-4dec-874b-4a7136009fe5-221x300.jpg"
+              },
+              "large": {
+                "file": "27807aca-d963-4dec-874b-4a7136009fe5-753x1024.jpg",
+                "width": 753,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/27807aca-d963-4dec-874b-4a7136009fe5-753x1024.jpg"
+              },
+              "thumbnail": {
+                "file": "27807aca-d963-4dec-874b-4a7136009fe5-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/27807aca-d963-4dec-874b-4a7136009fe5-150x150.jpg"
+              },
+              "medium_large": {
+                "file": "27807aca-d963-4dec-874b-4a7136009fe5-768x1044.jpg",
+                "width": 768,
+                "height": 1044,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/27807aca-d963-4dec-874b-4a7136009fe5-768x1044.jpg"
+              },
+              "full": {
+                "file": "27807aca-d963-4dec-874b-4a7136009fe5.jpg",
+                "width": 1000,
+                "height": 1360,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/27807aca-d963-4dec-874b-4a7136009fe5.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/27807aca-d963-4dec-874b-4a7136009fe5.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/59"
+              }
+            ],
+            "collection": [
+              { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media" }
+            ],
+            "about": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/users/1"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/comments?post=59"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "date": "2020-09-30T14:05:22",
+    "date_gmt": "2020-09-30T14:05:22",
+    "guid": {
+      "rendered": "https://max.william-mcdowell.com/?post_type=work&#038;p=87"
+    },
+    "modified": "2020-10-04T09:53:52",
+    "modified_gmt": "2020-10-04T09:53:52",
+    "slug": "afdsvew-5-6",
+    "status": "publish",
+    "type": "work",
+    "link": "https://max.william-mcdowell.com/work/afdsvew-5-6/",
+    "title": { "rendered": "afdsvew 5" },
+    "content": { "rendered": "\n<p>fsfddsff</p>\n", "protected": false },
+    "featured_media": 60,
+    "template": "",
+    "_links": {
+      "self": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work/87" }
+      ],
+      "collection": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work" }
+      ],
+      "about": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/work" }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/60"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media?parent=87"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    },
+    "_embedded": {
+      "wp:featuredmedia": [
+        {
+          "id": 60,
+          "date": "2020-09-30T14:01:49",
+          "slug": "1496f35f-8739-43f7-9254-d0b7b6f5b105",
+          "type": "attachment",
+          "link": "https://max.william-mcdowell.com/art/art-2/1496f35f-8739-43f7-9254-d0b7b6f5b105/",
+          "title": { "rendered": "1496f35f-8739-43f7-9254-d0b7b6f5b105" },
+          "author": 1,
+          "caption": { "rendered": "" },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 2316,
+            "height": 2560,
+            "file": "2020/09/1496f35f-8739-43f7-9254-d0b7b6f5b105-scaled.jpg",
+            "sizes": {
+              "medium": {
+                "file": "1496f35f-8739-43f7-9254-d0b7b6f5b105-271x300.jpg",
+                "width": 271,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/1496f35f-8739-43f7-9254-d0b7b6f5b105-271x300.jpg"
+              },
+              "large": {
+                "file": "1496f35f-8739-43f7-9254-d0b7b6f5b105-927x1024.jpg",
+                "width": 927,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/1496f35f-8739-43f7-9254-d0b7b6f5b105-927x1024.jpg"
+              },
+              "thumbnail": {
+                "file": "1496f35f-8739-43f7-9254-d0b7b6f5b105-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/1496f35f-8739-43f7-9254-d0b7b6f5b105-150x150.jpg"
+              },
+              "medium_large": {
+                "file": "1496f35f-8739-43f7-9254-d0b7b6f5b105-768x849.jpg",
+                "width": 768,
+                "height": 849,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/1496f35f-8739-43f7-9254-d0b7b6f5b105-768x849.jpg"
+              },
+              "1536x1536": {
+                "file": "1496f35f-8739-43f7-9254-d0b7b6f5b105-1390x1536.jpg",
+                "width": 1390,
+                "height": 1536,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/1496f35f-8739-43f7-9254-d0b7b6f5b105-1390x1536.jpg"
+              },
+              "2048x2048": {
+                "file": "1496f35f-8739-43f7-9254-d0b7b6f5b105-1853x2048.jpg",
+                "width": 1853,
+                "height": 2048,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/1496f35f-8739-43f7-9254-d0b7b6f5b105-1853x2048.jpg"
+              },
+              "full": {
+                "file": "1496f35f-8739-43f7-9254-d0b7b6f5b105-scaled.jpg",
+                "width": 2316,
+                "height": 2560,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/1496f35f-8739-43f7-9254-d0b7b6f5b105-scaled.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            },
+            "original_image": "1496f35f-8739-43f7-9254-d0b7b6f5b105.jpg"
+          },
+          "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/1496f35f-8739-43f7-9254-d0b7b6f5b105-scaled.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/60"
+              }
+            ],
+            "collection": [
+              { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media" }
+            ],
+            "about": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/users/1"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/comments?post=60"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "date": "2020-09-30T14:05:22",
+    "date_gmt": "2020-09-30T14:05:22",
+    "guid": {
+      "rendered": "https://max.william-mcdowell.com/?post_type=work&#038;p=86"
+    },
+    "modified": "2020-10-04T09:53:57",
+    "modified_gmt": "2020-10-04T09:53:57",
+    "slug": "qwf-we6-6",
+    "status": "publish",
+    "type": "work",
+    "link": "https://max.william-mcdowell.com/work/qwf-we6-6/",
+    "title": { "rendered": "qwf we6" },
+    "content": { "rendered": "\n<p>sdafd </p>\n", "protected": false },
+    "featured_media": 58,
+    "template": "",
+    "_links": {
+      "self": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work/86" }
+      ],
+      "collection": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work" }
+      ],
+      "about": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/work" }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/58"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media?parent=86"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    },
+    "_embedded": {
+      "wp:featuredmedia": [
+        {
+          "id": 58,
+          "date": "2020-09-30T14:01:48",
+          "slug": "069254d3-4d2a-452d-8652-f9520610f97b",
+          "type": "attachment",
+          "link": "https://max.william-mcdowell.com/069254d3-4d2a-452d-8652-f9520610f97b/",
+          "title": { "rendered": "069254d3-4d2a-452d-8652-f9520610f97b" },
+          "author": 1,
+          "caption": { "rendered": "" },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 1800,
+            "height": 2431,
+            "file": "2020/09/069254d3-4d2a-452d-8652-f9520610f97b.jpg",
+            "sizes": {
+              "medium": {
+                "file": "069254d3-4d2a-452d-8652-f9520610f97b-222x300.jpg",
+                "width": 222,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/069254d3-4d2a-452d-8652-f9520610f97b-222x300.jpg"
+              },
+              "large": {
+                "file": "069254d3-4d2a-452d-8652-f9520610f97b-758x1024.jpg",
+                "width": 758,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/069254d3-4d2a-452d-8652-f9520610f97b-758x1024.jpg"
+              },
+              "thumbnail": {
+                "file": "069254d3-4d2a-452d-8652-f9520610f97b-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/069254d3-4d2a-452d-8652-f9520610f97b-150x150.jpg"
+              },
+              "medium_large": {
+                "file": "069254d3-4d2a-452d-8652-f9520610f97b-768x1037.jpg",
+                "width": 768,
+                "height": 1037,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/069254d3-4d2a-452d-8652-f9520610f97b-768x1037.jpg"
+              },
+              "1536x1536": {
+                "file": "069254d3-4d2a-452d-8652-f9520610f97b-1137x1536.jpg",
+                "width": 1137,
+                "height": 1536,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/069254d3-4d2a-452d-8652-f9520610f97b-1137x1536.jpg"
+              },
+              "2048x2048": {
+                "file": "069254d3-4d2a-452d-8652-f9520610f97b-1516x2048.jpg",
+                "width": 1516,
+                "height": 2048,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/069254d3-4d2a-452d-8652-f9520610f97b-1516x2048.jpg"
+              },
+              "full": {
+                "file": "069254d3-4d2a-452d-8652-f9520610f97b.jpg",
+                "width": 1800,
+                "height": 2431,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/069254d3-4d2a-452d-8652-f9520610f97b.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/069254d3-4d2a-452d-8652-f9520610f97b.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/58"
+              }
+            ],
+            "collection": [
+              { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media" }
+            ],
+            "about": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/users/1"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/comments?post=58"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "date": "2020-09-30T14:05:22",
+    "date_gmt": "2020-09-30T14:05:22",
+    "guid": {
+      "rendered": "https://max.william-mcdowell.com/?post_type=work&#038;p=85"
+    },
+    "modified": "2020-10-04T09:54:03",
+    "modified_gmt": "2020-10-04T09:54:03",
+    "slug": "work-1-5",
+    "status": "publish",
+    "type": "work",
+    "link": "https://max.william-mcdowell.com/work/work-1-5/",
+    "title": { "rendered": "Work 1" },
+    "content": { "rendered": "\n<p>sbdbubdubs </p>\n", "protected": false },
+    "featured_media": 57,
+    "template": "",
+    "_links": {
+      "self": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work/85" }
+      ],
+      "collection": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work" }
+      ],
+      "about": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/work" }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/57"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media?parent=85"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    },
+    "_embedded": {
+      "wp:featuredmedia": [
+        {
+          "id": 57,
+          "date": "2020-09-30T14:01:47",
+          "slug": "77801b99-b587-4ecb-a841-d0e820bbf4eb",
+          "type": "attachment",
+          "link": "https://max.william-mcdowell.com/77801b99-b587-4ecb-a841-d0e820bbf4eb/",
+          "title": { "rendered": "77801b99-b587-4ecb-a841-d0e820bbf4eb" },
+          "author": 1,
+          "caption": { "rendered": "" },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 1500,
+            "height": 2000,
+            "file": "2020/09/77801b99-b587-4ecb-a841-d0e820bbf4eb.jpg",
+            "sizes": {
+              "medium": {
+                "file": "77801b99-b587-4ecb-a841-d0e820bbf4eb-225x300.jpg",
+                "width": 225,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/77801b99-b587-4ecb-a841-d0e820bbf4eb-225x300.jpg"
+              },
+              "large": {
+                "file": "77801b99-b587-4ecb-a841-d0e820bbf4eb-768x1024.jpg",
+                "width": 768,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/77801b99-b587-4ecb-a841-d0e820bbf4eb-768x1024.jpg"
+              },
+              "thumbnail": {
+                "file": "77801b99-b587-4ecb-a841-d0e820bbf4eb-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/77801b99-b587-4ecb-a841-d0e820bbf4eb-150x150.jpg"
+              },
+              "medium_large": {
+                "file": "77801b99-b587-4ecb-a841-d0e820bbf4eb-768x1024.jpg",
+                "width": 768,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/77801b99-b587-4ecb-a841-d0e820bbf4eb-768x1024.jpg"
+              },
+              "1536x1536": {
+                "file": "77801b99-b587-4ecb-a841-d0e820bbf4eb-1152x1536.jpg",
+                "width": 1152,
+                "height": 1536,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/77801b99-b587-4ecb-a841-d0e820bbf4eb-1152x1536.jpg"
+              },
+              "full": {
+                "file": "77801b99-b587-4ecb-a841-d0e820bbf4eb.jpg",
+                "width": 1500,
+                "height": 2000,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/77801b99-b587-4ecb-a841-d0e820bbf4eb.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/77801b99-b587-4ecb-a841-d0e820bbf4eb.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/57"
+              }
+            ],
+            "collection": [
+              { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media" }
+            ],
+            "about": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/users/1"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/comments?post=57"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "date": "2020-09-30T14:05:22",
+    "date_gmt": "2020-09-30T14:05:22",
+    "guid": {
+      "rendered": "https://max.william-mcdowell.com/?post_type=work&#038;p=84"
+    },
+    "modified": "2020-10-04T09:54:14",
+    "modified_gmt": "2020-10-04T09:54:14",
+    "slug": "work-2-5",
+    "status": "publish",
+    "type": "work",
+    "link": "https://max.william-mcdowell.com/work/work-2-5/",
+    "title": { "rendered": "Work 2" },
+    "content": { "rendered": "\n<p>sfasfsfsfsd</p>\n", "protected": false },
+    "featured_media": 55,
+    "template": "",
+    "_links": {
+      "self": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work/84" }
+      ],
+      "collection": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work" }
+      ],
+      "about": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/work" }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/55"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media?parent=84"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    },
+    "_embedded": {
+      "wp:featuredmedia": [
+        {
+          "id": 55,
+          "date": "2020-09-30T14:01:46",
+          "slug": "b522cbb6-0f2c-48ff-b105-b12dfb2de61a",
+          "type": "attachment",
+          "link": "https://max.william-mcdowell.com/b522cbb6-0f2c-48ff-b105-b12dfb2de61a/",
+          "title": { "rendered": "b522cbb6-0f2c-48ff-b105-b12dfb2de61a" },
+          "author": 1,
+          "caption": { "rendered": "" },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 1000,
+            "height": 1345,
+            "file": "2020/09/b522cbb6-0f2c-48ff-b105-b12dfb2de61a.jpg",
+            "sizes": {
+              "medium": {
+                "file": "b522cbb6-0f2c-48ff-b105-b12dfb2de61a-223x300.jpg",
+                "width": 223,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/b522cbb6-0f2c-48ff-b105-b12dfb2de61a-223x300.jpg"
+              },
+              "large": {
+                "file": "b522cbb6-0f2c-48ff-b105-b12dfb2de61a-761x1024.jpg",
+                "width": 761,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/b522cbb6-0f2c-48ff-b105-b12dfb2de61a-761x1024.jpg"
+              },
+              "thumbnail": {
+                "file": "b522cbb6-0f2c-48ff-b105-b12dfb2de61a-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/b522cbb6-0f2c-48ff-b105-b12dfb2de61a-150x150.jpg"
+              },
+              "medium_large": {
+                "file": "b522cbb6-0f2c-48ff-b105-b12dfb2de61a-768x1033.jpg",
+                "width": 768,
+                "height": 1033,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/b522cbb6-0f2c-48ff-b105-b12dfb2de61a-768x1033.jpg"
+              },
+              "full": {
+                "file": "b522cbb6-0f2c-48ff-b105-b12dfb2de61a.jpg",
+                "width": 1000,
+                "height": 1345,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/b522cbb6-0f2c-48ff-b105-b12dfb2de61a.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/b522cbb6-0f2c-48ff-b105-b12dfb2de61a.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/55"
+              }
+            ],
+            "collection": [
+              { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media" }
+            ],
+            "about": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/users/1"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/comments?post=55"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "date": "2020-09-30T14:05:22",
+    "date_gmt": "2020-09-30T14:05:22",
+    "guid": {
+      "rendered": "https://max.william-mcdowell.com/?post_type=work&#038;p=83"
+    },
+    "modified": "2020-10-04T09:54:20",
+    "modified_gmt": "2020-10-04T09:54:20",
+    "slug": "work-3-5",
+    "status": "publish",
+    "type": "work",
+    "link": "https://max.william-mcdowell.com/work/work-3-5/",
+    "title": { "rendered": "work 3" },
+    "content": { "rendered": "\n<p>sdagsd</p>\n", "protected": false },
+    "featured_media": 56,
+    "template": "",
+    "_links": {
+      "self": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work/83" }
+      ],
+      "collection": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work" }
+      ],
+      "about": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/work" }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/56"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media?parent=83"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    },
+    "_embedded": {
+      "wp:featuredmedia": [
+        {
+          "id": 56,
+          "date": "2020-09-30T14:01:46",
+          "slug": "b4cd3a1f-d115-4b7f-b94a-537dde8b90c0",
+          "type": "attachment",
+          "link": "https://max.william-mcdowell.com/b4cd3a1f-d115-4b7f-b94a-537dde8b90c0/",
+          "title": { "rendered": "b4cd3a1f-d115-4b7f-b94a-537dde8b90c0" },
+          "author": 1,
+          "caption": { "rendered": "" },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 1500,
+            "height": 1754,
+            "file": "2020/09/b4cd3a1f-d115-4b7f-b94a-537dde8b90c0.jpg",
+            "sizes": {
+              "medium": {
+                "file": "b4cd3a1f-d115-4b7f-b94a-537dde8b90c0-257x300.jpg",
+                "width": 257,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/b4cd3a1f-d115-4b7f-b94a-537dde8b90c0-257x300.jpg"
+              },
+              "large": {
+                "file": "b4cd3a1f-d115-4b7f-b94a-537dde8b90c0-876x1024.jpg",
+                "width": 876,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/b4cd3a1f-d115-4b7f-b94a-537dde8b90c0-876x1024.jpg"
+              },
+              "thumbnail": {
+                "file": "b4cd3a1f-d115-4b7f-b94a-537dde8b90c0-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/b4cd3a1f-d115-4b7f-b94a-537dde8b90c0-150x150.jpg"
+              },
+              "medium_large": {
+                "file": "b4cd3a1f-d115-4b7f-b94a-537dde8b90c0-768x898.jpg",
+                "width": 768,
+                "height": 898,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/b4cd3a1f-d115-4b7f-b94a-537dde8b90c0-768x898.jpg"
+              },
+              "1536x1536": {
+                "file": "b4cd3a1f-d115-4b7f-b94a-537dde8b90c0-1314x1536.jpg",
+                "width": 1314,
+                "height": 1536,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/b4cd3a1f-d115-4b7f-b94a-537dde8b90c0-1314x1536.jpg"
+              },
+              "full": {
+                "file": "b4cd3a1f-d115-4b7f-b94a-537dde8b90c0.jpg",
+                "width": 1500,
+                "height": 1754,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/b4cd3a1f-d115-4b7f-b94a-537dde8b90c0.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/b4cd3a1f-d115-4b7f-b94a-537dde8b90c0.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/56"
+              }
+            ],
+            "collection": [
+              { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media" }
+            ],
+            "about": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/users/1"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/comments?post=56"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "date": "2020-09-30T14:05:22",
+    "date_gmt": "2020-09-30T14:05:22",
+    "guid": {
+      "rendered": "https://max.william-mcdowell.com/?post_type=work&#038;p=82"
+    },
+    "modified": "2020-10-04T09:54:27",
+    "modified_gmt": "2020-10-04T09:54:27",
+    "slug": "wokeofk-4-5",
+    "status": "publish",
+    "type": "work",
+    "link": "https://max.william-mcdowell.com/work/wokeofk-4-5/",
+    "title": { "rendered": "wokeofk 4" },
+    "content": { "rendered": "\n<p>safsef</p>\n", "protected": false },
+    "featured_media": 53,
+    "template": "",
+    "_links": {
+      "self": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work/82" }
+      ],
+      "collection": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work" }
+      ],
+      "about": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/work" }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/53"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media?parent=82"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    },
+    "_embedded": {
+      "wp:featuredmedia": [
+        {
+          "id": 53,
+          "date": "2020-09-30T14:01:45",
+          "slug": "e531d36c-ba51-41ba-bd49-4f693a6aed53",
+          "type": "attachment",
+          "link": "https://max.william-mcdowell.com/e531d36c-ba51-41ba-bd49-4f693a6aed53/",
+          "title": { "rendered": "e531d36c-ba51-41ba-bd49-4f693a6aed53" },
+          "author": 1,
+          "caption": { "rendered": "" },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 1000,
+            "height": 1331,
+            "file": "2020/09/e531d36c-ba51-41ba-bd49-4f693a6aed53.jpg",
+            "sizes": {
+              "medium": {
+                "file": "e531d36c-ba51-41ba-bd49-4f693a6aed53-225x300.jpg",
+                "width": 225,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/e531d36c-ba51-41ba-bd49-4f693a6aed53-225x300.jpg"
+              },
+              "large": {
+                "file": "e531d36c-ba51-41ba-bd49-4f693a6aed53-769x1024.jpg",
+                "width": 769,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/e531d36c-ba51-41ba-bd49-4f693a6aed53-769x1024.jpg"
+              },
+              "thumbnail": {
+                "file": "e531d36c-ba51-41ba-bd49-4f693a6aed53-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/e531d36c-ba51-41ba-bd49-4f693a6aed53-150x150.jpg"
+              },
+              "medium_large": {
+                "file": "e531d36c-ba51-41ba-bd49-4f693a6aed53-768x1022.jpg",
+                "width": 768,
+                "height": 1022,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/e531d36c-ba51-41ba-bd49-4f693a6aed53-768x1022.jpg"
+              },
+              "full": {
+                "file": "e531d36c-ba51-41ba-bd49-4f693a6aed53.jpg",
+                "width": 1000,
+                "height": 1331,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/e531d36c-ba51-41ba-bd49-4f693a6aed53.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/e531d36c-ba51-41ba-bd49-4f693a6aed53.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/53"
+              }
+            ],
+            "collection": [
+              { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media" }
+            ],
+            "about": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/users/1"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/comments?post=53"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "date": "2020-09-30T14:05:22",
+    "date_gmt": "2020-09-30T14:05:22",
+    "guid": {
+      "rendered": "https://max.william-mcdowell.com/?post_type=work&#038;p=81"
+    },
+    "modified": "2020-10-04T09:54:45",
+    "modified_gmt": "2020-10-04T09:54:45",
+    "slug": "afdsvew-5-5",
+    "status": "publish",
+    "type": "work",
+    "link": "https://max.william-mcdowell.com/work/afdsvew-5-5/",
+    "title": { "rendered": "afdsvew 5" },
+    "content": { "rendered": "\n<p>fsfddsff</p>\n", "protected": false },
+    "featured_media": 54,
+    "template": "",
+    "_links": {
+      "self": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work/81" }
+      ],
+      "collection": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work" }
+      ],
+      "about": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/work" }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/54"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media?parent=81"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    },
+    "_embedded": {
+      "wp:featuredmedia": [
+        {
+          "id": 54,
+          "date": "2020-09-30T14:01:45",
+          "slug": "ce40d736-fbf1-4fd1-a250-abd4d5146bd5",
+          "type": "attachment",
+          "link": "https://max.william-mcdowell.com/ce40d736-fbf1-4fd1-a250-abd4d5146bd5/",
+          "title": { "rendered": "ce40d736-fbf1-4fd1-a250-abd4d5146bd5" },
+          "author": 1,
+          "caption": { "rendered": "" },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 1000,
+            "height": 1333,
+            "file": "2020/09/ce40d736-fbf1-4fd1-a250-abd4d5146bd5.jpg",
+            "sizes": {
+              "medium": {
+                "file": "ce40d736-fbf1-4fd1-a250-abd4d5146bd5-225x300.jpg",
+                "width": 225,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/ce40d736-fbf1-4fd1-a250-abd4d5146bd5-225x300.jpg"
+              },
+              "large": {
+                "file": "ce40d736-fbf1-4fd1-a250-abd4d5146bd5-768x1024.jpg",
+                "width": 768,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/ce40d736-fbf1-4fd1-a250-abd4d5146bd5-768x1024.jpg"
+              },
+              "thumbnail": {
+                "file": "ce40d736-fbf1-4fd1-a250-abd4d5146bd5-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/ce40d736-fbf1-4fd1-a250-abd4d5146bd5-150x150.jpg"
+              },
+              "medium_large": {
+                "file": "ce40d736-fbf1-4fd1-a250-abd4d5146bd5-768x1024.jpg",
+                "width": 768,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/ce40d736-fbf1-4fd1-a250-abd4d5146bd5-768x1024.jpg"
+              },
+              "full": {
+                "file": "ce40d736-fbf1-4fd1-a250-abd4d5146bd5.jpg",
+                "width": 1000,
+                "height": 1333,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/ce40d736-fbf1-4fd1-a250-abd4d5146bd5.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/ce40d736-fbf1-4fd1-a250-abd4d5146bd5.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/54"
+              }
+            ],
+            "collection": [
+              { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media" }
+            ],
+            "about": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/users/1"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/comments?post=54"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "date": "2020-09-30T14:05:22",
+    "date_gmt": "2020-09-30T14:05:22",
+    "guid": {
+      "rendered": "https://max.william-mcdowell.com/?post_type=work&#038;p=80"
+    },
+    "modified": "2020-10-04T09:54:51",
+    "modified_gmt": "2020-10-04T09:54:51",
+    "slug": "qwf-we6-5",
+    "status": "publish",
+    "type": "work",
+    "link": "https://max.william-mcdowell.com/work/qwf-we6-5/",
+    "title": { "rendered": "qwf we6" },
+    "content": { "rendered": "\n<p>sdafd </p>\n", "protected": false },
+    "featured_media": 52,
+    "template": "",
+    "_links": {
+      "self": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work/80" }
+      ],
+      "collection": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/work" }
+      ],
+      "about": [
+        { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/work" }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/52"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media?parent=80"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    },
+    "_embedded": {
+      "wp:featuredmedia": [
+        {
+          "id": 52,
+          "date": "2020-09-30T14:01:44",
+          "slug": "eb23d58f-0dcc-4692-a7aa-318a96e6b359",
+          "type": "attachment",
+          "link": "https://max.william-mcdowell.com/eb23d58f-0dcc-4692-a7aa-318a96e6b359/",
+          "title": { "rendered": "eb23d58f-0dcc-4692-a7aa-318a96e6b359" },
+          "author": 1,
+          "caption": { "rendered": "" },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 1000,
+            "height": 1337,
+            "file": "2020/09/eb23d58f-0dcc-4692-a7aa-318a96e6b359.jpg",
+            "sizes": {
+              "medium": {
+                "file": "eb23d58f-0dcc-4692-a7aa-318a96e6b359-224x300.jpg",
+                "width": 224,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/eb23d58f-0dcc-4692-a7aa-318a96e6b359-224x300.jpg"
+              },
+              "large": {
+                "file": "eb23d58f-0dcc-4692-a7aa-318a96e6b359-766x1024.jpg",
+                "width": 766,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/eb23d58f-0dcc-4692-a7aa-318a96e6b359-766x1024.jpg"
+              },
+              "thumbnail": {
+                "file": "eb23d58f-0dcc-4692-a7aa-318a96e6b359-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/eb23d58f-0dcc-4692-a7aa-318a96e6b359-150x150.jpg"
+              },
+              "medium_large": {
+                "file": "eb23d58f-0dcc-4692-a7aa-318a96e6b359-768x1027.jpg",
+                "width": 768,
+                "height": 1027,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/eb23d58f-0dcc-4692-a7aa-318a96e6b359-768x1027.jpg"
+              },
+              "full": {
+                "file": "eb23d58f-0dcc-4692-a7aa-318a96e6b359.jpg",
+                "width": 1000,
+                "height": 1337,
+                "mime_type": "image/jpeg",
+                "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/eb23d58f-0dcc-4692-a7aa-318a96e6b359.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "https://max.william-mcdowell.com/wp-content/uploads/2020/09/eb23d58f-0dcc-4692-a7aa-318a96e6b359.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media/52"
+              }
+            ],
+            "collection": [
+              { "href": "https://max.william-mcdowell.com/wp-json/wp/v2/media" }
+            ],
+            "about": [
+              {
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/users/1"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "https://max.william-mcdowell.com/wp-json/wp/v2/comments?post=52"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]
